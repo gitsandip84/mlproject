@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLFLOW/mlruns/0/74d617684e5442289a3daa0813a40008/artifacts
+end_time: 1696691230022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74d617684e5442289a3daa0813a40008
+run_name: brawny-whale-145
+run_uuid: 74d617684e5442289a3daa0813a40008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696691226154
+status: 3
+tags: []
+user_id: SANDIP

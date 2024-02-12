@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLFLOW/mlruns/0/90d8236d00f848beb6a77af77a0f95e0/artifacts
+end_time: 1696689759735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90d8236d00f848beb6a77af77a0f95e0
+run_name: stately-roo-276
+run_uuid: 90d8236d00f848beb6a77af77a0f95e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696689754384
+status: 3
+tags: []
+user_id: SANDIP
